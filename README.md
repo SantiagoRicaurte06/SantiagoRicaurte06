@@ -9,7 +9,7 @@
 ╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░░╚════╝░
 ```
 
-### Software Developer · Data Science · ADSO @ SENA
+### Student of Software Developer
 *Yopal, Colombia*
 
 ---
@@ -22,16 +22,12 @@
 
 ## 👨‍💻 Sobre mí
 
-Estudiante de **Análisis y Desarrollo de Software (ADSO)** en SENA CAFEC, Yopal. Apasionado por construir soluciones reales — desde plataformas web hasta sistemas de predicción con Machine Learning.
-
-Actualmente desarrollando **Jobsy** (marketplace de servicios domésticos colombiano) y un **sistema de predicción NBA** con XGBoost, Kelly Criterion y dashboard en tiempo real.
+Estudiante de **Análisis y Desarrollo de Software (ADSO)**. Apasionado por construir soluciones reales — desde plataformas web hasta sistemas de predicción con Machine Learning.
 
 ```python
 santiago = {
-    "ubicación":     "Yopal, Colombia 🇨🇴",
-    "programa":      "ADSO — SENA CAFEC",
     "intereses":     ["Machine Learning", "Full Stack", "Sports Analytics"],
-    "actualmente":   "Construyendo Jobsy + NBA Predictor",
+    "actualmente":   "",
     "idiomas":       {"Español": "Nativo", "Inglés": "A1"},
 }
 ```
@@ -65,14 +61,6 @@ santiago = {
 ![Git](https://img.shields.io/badge/Git-0d1520?style=for-the-badge&logo=git&logoColor=f7931a)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1520?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-0d1520?style=for-the-badge&logo=anthropic&logoColor=f7931a)
-
----
-
-## 🚀 Proyectos Destacados
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SantiagoRicaurte06&repo=jobsy&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e8edf5&icon_color=f7931a)](https://github.com/SantiagoRicaurte06)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SantiagoRicaurte06&repo=nba-predictor&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e8edf5&icon_color=f7931a)](https://github.com/SantiagoRicaurte06)
 
 ---
 
