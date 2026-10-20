@@ -97,11 +97,13 @@ el otro 10 % se arregla al día siguiente sin haber cambiado nada. 🐛
 
 ## `$ cat contact`
 
-<!-- Pon tus enlaces dentro de los paréntesis vacíos -->
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=18c5d6)](mailto:santiagoricuarte@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=18c5d6)]()
-[![Portafolio](https://img.shields.io/badge/Portafolio-0d1117?style=flat-square&logo=googlechrome&logoColor=18c5d6)]()
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=18c5d6)]()
+<!-- Pon tus enlaces en los href="" vacíos -->
+<p>
+  <a href="mailto:santiagoricuarte@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Email" title="Email" /></a>&nbsp;
+  <a href=""><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;
+  <a href=""><img src="assets/portfolio.svg" width="48" alt="Portafolio" title="Portafolio" /></a>&nbsp;
+  <a href=""><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" alt="Instagram" title="Instagram" /></a>
+</p>
 
 <details>
 <summary><code>$ sudo rm -rf /</code></summary>
@@ -128,7 +130,7 @@ You can check out any time you like, but you can never leave. 🎸
 
 <div align="center">
 
-![uptime](https://komarev.com/ghpvc/?username=SantiagoRicaurte06&color=0d1117&style=flat-square&label=uptime%20%E2%80%94%20visitors)
+![uptime](https://hits.sh/github.com/SantiagoRicaurte06.svg?style=flat-square&label=uptime%20%C2%B7%20visits&color=18c5d6&labelColor=0d1117)
 
 </div>
 
