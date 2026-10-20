@@ -81,13 +81,11 @@ santiago = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SantiagoRicaurte06&theme=dark&hide_border=true&short_numbers=true&background=060a0f&ring=00d4ff&fire=f7931a&currStreakLabel=00d4ff&sideLabels=5a7a9a&dates=5a7a9a&currStreakNum=e8edf5&sideNums=e8edf5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SantiagoRicaurte06&theme=dark&hide_border=true&short_numbers=true&background=060a0f&ring=00d4ff&fire=f7931a&currStreakLabel=00d4ff&sideLabels=5a7a9a&dates=5a7a9a&currStreakNum=e8edf5&sideNums=e8edf5)](https://git.io/streak-stats)
 
 ![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoRicaurte06&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e8edf5&icon_color=f7931a&bg_color=060a0f)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoRicaurte06&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e8edf5&bg_color=060a0f)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SantiagoRicaurte06&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
