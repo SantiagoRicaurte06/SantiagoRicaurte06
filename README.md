@@ -64,9 +64,7 @@ SEE ALSO
 |---|---|---|---|
 | `drwxr-xr-x` | **[jobsy/](https://github.com/SantiagoRicaurte06/Jobsy_Front)** | Marketplace que conecta hogares con trabajadores del hogar. Front, capa media y API en microservicios. · [api](https://github.com/SantiagoRicaurte06/Jobsy_API) · [mid](https://github.com/SantiagoRicaurte06/Jobsy_Mid) | Angular · Go · PostgreSQL |
 | `drwxr-xr-x` | **[yopvial/](https://github.com/juanezzzzz/seguridad-vial)** | Guía interactiva de seguridad vial para Yopal: juegos, reportes ciudadanos (PQR) y mapa de zonas de riesgo. · [demo](https://juanezzzzz.github.io/seguridad-vial/) | HTML · CSS · JS · Leaflet |
-| `drwxr-xr-x` | **[rrhh-api/](https://github.com/SantiagoRicaurte06/Gestion_Recursos_Humanos_API_DJango)** | API de recursos humanos: empleados, nómina, contratos y vacaciones, con auditoría y exportación a CSV/Excel. | Django REST · PostgreSQL · JWT |
-| `drwx------` | **nba-predictor-pro/** 🔒 | Predicción de partidos NBA con backtesting walk-forward. *Próximamente público.* | XGBoost · Poisson · Streamlit |
-| `drwx------` | **zona-gamer-turnos/** 🔒 | Sistema a la medida para una sala gamer: cierre de caja por turnos, nómina e inventario, con soporte offline. | React · TypeScript · Supabase |
+| `drwx------` | **sistemas-negocios/** 🔒 | Software a la medida para clientes reales: turnos y cierre de caja en una papelería y una sala gamer, y control de inventario, producción y facturación en una planta de agua. | React · TypeScript · Supabase |
 
 <details>
 <summary><code>$ cat .secrets</code></summary>
@@ -101,6 +99,7 @@ el otro 10 % se arregla al día siguiente sin haber cambiado nada. 🐛
 <p>
   <a href="mailto:santiagoricuarte@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" alt="Email" title="Email" /></a>&nbsp;
   <a href=""><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;
+  <!-- 👇 PORTAFOLIO: pega la URL de tu sitio desplegado dentro de href="" (ej. href="https://tu-sitio.vercel.app") -->
   <a href=""><img src="assets/portfolio.svg" width="48" alt="Portafolio" title="Portafolio" /></a>&nbsp;
   <a href=""><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" alt="Instagram" title="Instagram" /></a>
 </p>
